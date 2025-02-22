@@ -18,5 +18,7 @@ setup(
         "transformers",
         "facebook_scraper",
         "lxml_html_clean",
+        "streamlit",
+        "requests",
     ],
 )

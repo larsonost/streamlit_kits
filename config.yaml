@@ -1,0 +1,7 @@
+announcement_keywords : [
+    "announce", "announcement", "announcing", "revealing", "reveal",
+    "unveil", "unveiling", "launch", "launching", "presenting",
+    "presentation", "introducing", "introduction", "debut", "showcase", "showcasing",
+    "premiere","image", "images", "photo", "photos", "picture", "pictures", "video", "videos"
+]
+max_fb_comments: 100000

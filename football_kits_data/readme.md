@@ -1,0 +1,1 @@
+data can be found on sharepoint at "Global Consumer Insights & Analytics"/Documents/General/"Data Science"/Datasets/football_kits_data
